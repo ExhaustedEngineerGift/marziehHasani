@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marziehHasani
 - 👀 I’m interested in Brain computer interface 
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
